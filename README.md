@@ -6,20 +6,13 @@ Jak już wiesz, celem dzisiejszego warsztatu jest wytworzenie obiektowej warstwy
 
 Będzie ona w zawierała następujące kolumny:
 
+<pre><code class="hljs language-gherkin">+------------------+--------------+------+-----+---------+----------------+
+|<span class="hljs-string"> Field            </span>|<span class="hljs-string"> Type         </span>|<span class="hljs-string"> Null </span>|<span class="hljs-string"> Key </span>|<span class="hljs-string"> Default </span>|<span class="hljs-string"> Extra          </span>|
 +------------------+--------------+------+-----+---------+----------------+
-
-| Field            | Type         | Null | Key | Default | Extra          |
-
-+------------------+--------------+------+-----+---------+----------------+
-
-| id               | int(11)      | NO   | PRI | NULL    | auto_increment |
-
-| email            | varchar(255) | NO   | UNI | NULL    |                |
-
-| username         | varchar(255) | NO   |     | NULL    |                |
-
-| password         | varchar(60)  | NO   |     | NULL    |                |
-
+|<span class="hljs-string"> id               </span>|<span class="hljs-string"> int(11)      </span>|<span class="hljs-string"> NO   </span>|<span class="hljs-string"> PRI </span>|<span class="hljs-string"> NULL    </span>|<span class="hljs-string"> auto_increment </span>|
+|<span class="hljs-string"> email            </span>|<span class="hljs-string"> varchar(255) </span>|<span class="hljs-string"> NO   </span>|<span class="hljs-string"> UNI </span>|<span class="hljs-string"> NULL    </span>|<span class="hljs-string">                </span>|
+|<span class="hljs-string"> username         </span>|<span class="hljs-string"> varchar(255) </span>|<span class="hljs-string"> NO   </span>|<span class="hljs-string">     </span>|<span class="hljs-string"> NULL    </span>|<span class="hljs-string">                </span>|
+|<span class="hljs-string"> password         </span>|<span class="hljs-string"> varchar(60)  </span>|<span class="hljs-string"> NO   </span>|<span class="hljs-string">     </span>|<span class="hljs-string"> NULL    </span>|<span class="hljs-string">                </span>|
 +------------------+--------------+------+-----+---------+----------------+
 
 ### Czego nauczysz się podczas tego warsztatu?
