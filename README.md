@@ -13,7 +13,7 @@ Będzie ona w zawierała następujące kolumny:
 |<span class="hljs-string"> email            </span>|<span class="hljs-string"> varchar(255) </span>|<span class="hljs-string"> NO   </span>|<span class="hljs-string"> UNI </span>|<span class="hljs-string"> NULL    </span>|<span class="hljs-string">                </span>|
 |<span class="hljs-string"> username         </span>|<span class="hljs-string"> varchar(255) </span>|<span class="hljs-string"> NO   </span>|<span class="hljs-string">     </span>|<span class="hljs-string"> NULL    </span>|<span class="hljs-string">                </span>|
 |<span class="hljs-string"> password         </span>|<span class="hljs-string"> varchar(60)  </span>|<span class="hljs-string"> NO   </span>|<span class="hljs-string">     </span>|<span class="hljs-string"> NULL    </span>|<span class="hljs-string">                </span>|
-+------------------+--------------+------+-----+---------+----------------+
++------------------+--------------+------+-----+---------+----------------+</code></pre>
 
 ### Czego nauczysz się podczas tego warsztatu?
 
